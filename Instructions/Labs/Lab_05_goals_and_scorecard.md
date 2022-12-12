@@ -46,9 +46,9 @@ In this lab exercise, we will focus on the scenarios illustrated below:
 
 ## Exercise 1: Define sustainability goals
 
-In this exercise, you will learn about the steps that Amber takes to create scorecards and goals to help Wide World Importers track carbon reduction progress. Based on the results of the previous lab, Amber has determined that Wide World Importers needs to reduce their Scope 2: Purchased electricity carbon emissions. Scorecards and goals allow organizations to set carbon reduction targets and track their progress to that. You can explore this functionality in deeper detail on Microsoft Docs, please visit Overview of scorecards and goals +++https://docs.microsoft.com/en-us/industry/sustainability/reports-scorecards-goals+++.
+In this exercise, you will learn about the steps that Amber takes to create scorecards and goals to help Wide World Importers track carbon reduction progress. Based on the results of the previous lab, Amber has determined that Wide World Importers needs to reduce their Scope 2: Purchased electricity carbon emissions. Scorecards and goals allow organizations to set carbon reduction targets and track their progress to that. You can explore this functionality in deeper detail on Microsoft Docs, please visit Overview of scorecards and goals https://docs.microsoft.com/en-us/industry/sustainability/reports-scorecards-goals.
 
-1. Log in to your Cloud for Sustainability environment at +++https://make.powerapps.com+++
+1. Log in to your Cloud for Sustainability environment at https://make.powerapps.com
 
 1. If needed, change the environment to **MC4S** on the top bar.
 
