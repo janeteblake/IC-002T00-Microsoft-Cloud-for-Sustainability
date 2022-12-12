@@ -22,7 +22,7 @@ In this lab, you will do the following:
 
 ### Solution Focus Area
 
-In this lab, the focus is on the “Data Ingestion” aspect of the Solution Focus Area. It follows the “Organization and Reference data Set up” and forms the basis for the emission calculations and the reporting thereafter. The Microsoft Sustainability Manager is flexible with multiple automated options to ingest data – such as the connectors as well as manual inputs. For scenarios that may require complex data transformation and/or ETL, tools like Azure Data Factory are recommended. You can explore this functionality in deeper detail on Microsoft Docs at **Overview of Microsoft Cloud for Sustainability Data Import**, +++https://docs.microsoft.com/en-us/industry/sustainability/import-data+++.
+In this lab, the focus is on the “Data Ingestion” aspect of the Solution Focus Area. It follows the “Organization and Reference data Set up” and forms the basis for the emission calculations and the reporting thereafter. The Microsoft Sustainability Manager is flexible with multiple automated options to ingest data – such as the connectors as well as manual inputs. For scenarios that may require complex data transformation and/or ETL, tools like Azure Data Factory are recommended. You can explore this functionality in deeper detail on Microsoft Docs at **Overview of Microsoft Cloud for Sustainability Data Import**, https://docs.microsoft.com/en-us/industry/sustainability/import-data.
 
 ![Graphical user interface, text, application, email Description automatically generated](./Images/Lab02/L02_image001.png)
 
@@ -38,11 +38,11 @@ In this lab exercise, we will focus on the Lab 02 scenario illustrated below:
 
 ## Exercise 1: Import Data
 
-In this exercise, you will learn about the steps that Reed takes to ingest the spreadsheets given by Alex. Data import is a vital task to bringing large volumes of data into Microsoft Sustainability Manager. Excel is utilized in this lab; however, many pre-built connectors are available, and Partners can build custom connectors to integrate with additional data sources. You can explore this functionality in deeper detail on Microsoft Docs, please visit **Overview of data connectors** at +++https://docs.microsoft.com/en-us/industry/sustainability/import-data-connectors+++.
+In this exercise, you will learn about the steps that Reed takes to ingest the spreadsheets given by Alex. Data import is a vital task to bringing large volumes of data into Microsoft Sustainability Manager. Excel is utilized in this lab; however, many pre-built connectors are available, and Partners can build custom connectors to integrate with additional data sources. You can explore this functionality in deeper detail on Microsoft Docs, please visit **Overview of data connectors** at https://docs.microsoft.com/en-us/industry/sustainability/import-data-connectors.
 
 >[!ALERT] **Important** Please ensure you have completed the previous lab to create Reference Data. **The data import process requires all Reference Data to exist, and the process is case sensitive, so please ensure the Reference data that was added has the exact same case formatting as what is found in the lab**. Failure to do so will result in errors during the data import process
 
-1. Navigate to +++https://make.powerapps.com++ and log into your Microsoft 365 tenant.
+1. Navigate to https://make.powerapps.com and log into your Microsoft 365 tenant.
 
 1. If needed, change the environment to **MC4S** on the top bar.
 
@@ -190,7 +190,7 @@ In this task, Reed imports the first excel spreadsheet provided by Alex, Purchas
 
 1.  On the **Review and finish** page:
 
-     1.  (1) Enter a name for the new connection, such as +++**Wide World Importers - Purchased Electricity - 2021**+++.
+     1.  (1) Enter a name for the new connection, such as **Wide World Importers - Purchased Electricity - 2021**.
      1.  (2) Select **Connect**.
 
     ![Graphical user interface, text, application, email Description automatically generated](./Images/Lab02/L02_image031.png)
@@ -331,7 +331,7 @@ In this task, Reed imports the second excel spreadsheet provided by Alex - “Fl
 
 1.  On the **Review and finish** page:
 
-     1.  (1) Enter a name for the new connection, such as +++**Wide World Importers - Electric Vehicle Miles Driven - 2021**+++.
+     1.  (1) Enter a name for the new connection, such as **Wide World Importers - Electric Vehicle Miles Driven - 2021**.
      1.  (2) Select **Connect**.
 
     ![Graphical user interface, text, application, email Description automatically generated](./Images/Lab02/L02_image054.png)
