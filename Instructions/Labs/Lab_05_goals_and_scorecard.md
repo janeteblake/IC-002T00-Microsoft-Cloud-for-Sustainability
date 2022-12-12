@@ -46,9 +46,9 @@ In this lab exercise, we will focus on the scenarios illustrated below:
 
 ## Exercise 1: Define sustainability goals
 
-In this exercise, you will learn about the steps that Amber takes to create scorecards and goals to help Wide World Importers track carbon reduction progress. Based on the results of the previous lab, Amber has determined that Wide World Importers needs to reduce their Scope 2: Purchased electricity carbon emissions. Scorecards and goals allow organizations to set carbon reduction targets and track their progress to that. You can explore this functionality in deeper detail on Microsoft Docs, please visit Overview of scorecards and goals +++https://docs.microsoft.com/en-us/industry/sustainability/reports-scorecards-goals+++.
+In this exercise, you will learn about the steps that Amber takes to create scorecards and goals to help Wide World Importers track carbon reduction progress. Based on the results of the previous lab, Amber has determined that Wide World Importers needs to reduce their Scope 2: Purchased electricity carbon emissions. Scorecards and goals allow organizations to set carbon reduction targets and track their progress to that. You can explore this functionality in deeper detail on Microsoft Docs, please visit Overview of scorecards and goals https://docs.microsoft.com/en-us/industry/sustainability/reports-scorecards-goals.
 
-1. Log in to your Cloud for Sustainability environment at +++https://make.powerapps.com+++
+1. Log in to your Cloud for Sustainability environment at https://make.powerapps.com
 
 1. If needed, change the environment to **MC4S** on the top bar.
 
@@ -76,7 +76,7 @@ In this task, Amber will create a new scorecard to track the goals for Wide Worl
 
 1.  Amber uses the following information to populate the fields on the new Scorecard.
  
-    (1) Enter the **Name**: +++Wide World Importers Reduction Plan - 2025+++
+    (1) Enter the **Name**: Wide World Importers Reduction Plan - 2025
 
     (2) Select **Save**.
 
@@ -112,7 +112,7 @@ In this task, Amber will create a new goal instructing Wide World Importers to r
 
 1.  Amber uses the following information to populate these fields on the new Goal. Enter the data:
 
-    (1) **Name**: +++Reduce Scope 2 Emissions – 2022+++
+    (1) **Name**: Reduce Scope 2 Emissions – 2022
 
     (2) **Owner**: Your lab User
 
@@ -128,7 +128,7 @@ In this task, Amber will create a new goal instructing Wide World Importers to r
 
     (7) **Unit of measure**: mtCO<sub>2</sub>E
 
-    (8)**Starting value**: +++900+++
+    (8)**Starting value**: 900
    
     ![Graphical user interface, text, application Description automatically generated](./Images/Lab05/L05_image010b.png)
 
@@ -138,7 +138,7 @@ In this task, Amber will create a new goal instructing Wide World Importers to r
 
     1. Choose **Emission** as the **Data source**. This is the table where the data will come from.
 
-    1. Set +++**CO<sub>2</sub>E**+++ as the **Value**. This is the field where the data will come from.
+    1. Set **CO<sub>2</sub>E** as the **Value**. This is the field where the data will come from.
 
     ![Graphical user interface, application Description automatically generated](./Images/Lab05/L05_image012.png)  
   
@@ -186,7 +186,7 @@ In this task, Amber will create a new goal instructing Wide World Importers to r
 
 1. Amber selects **Enter manually** for the **Source of target value** and our target of reducing our annual emissions as 600 mtCO2E. To do this:
     1. Select **Enter manually** for **Source of target value**.
-    1. Set **Target value** to ++600+++.
+    1. Set **Target value** to 600.
 
     (Need screenshot here)
 
@@ -201,7 +201,7 @@ In this task, Amber will create a new goal instructing Wide World Importers to r
 
         ![Graphical user interface, text, application, chat or text message Description automatically generated](./Images/Lab05/L05_image023.png)
 
-    1.  In the **Value** field, which currently says **0**, enter +++**600**+++, and select **At Risk** from the **Set status to** dropdown.
+    1.  In the **Value** field, which currently says **0**, enter **600**, and select **At Risk** from the **Set status to** dropdown.
 
          ![Graphical user interface, application Description automatically generated](./Images/Lab05/L05_image025.png)
 
@@ -255,8 +255,8 @@ Sometimes we may have goals that are set to use manually check-ins if we are not
 1.  Populate the **New check-in** with the following data and select **Save**:
 
     1. **Update for**: Use today’s date.
-    1. **New value**: The preview value you copied from the Source of current value connection screen. In this scenario, +++379.59+++.
-    1. **Add Note**: +++First check-in+++.
+    1. **New value**: The preview value you copied from the Source of current value connection screen. In this scenario, 379.59.
+    1. **Add Note**: First check-in.
 
     ![Graphical user interface, text, application, email Description automatically generated](./Images/Lab05/L05_image034.png)
 
@@ -406,7 +406,7 @@ In this task, Amber will create a linked chat to collaborate with Allen Contoso 
     ![Graphical user interface, text, application Description automatically generated](./Images/Lab05/L05_image058.png)
 
 1.  On the **New linked chat** blade we need to:
-    1.  Search for chat **Participants** - for this scenario use the dummy account, +++**Allen Contoso**+++.
+    1.  Search for chat **Participants** - for this scenario use the dummy account, **Allen Contoso**.
     1.  Add a note to provide context for the chat to the participants.
     1.  When finished, select **Start chat**.
 
